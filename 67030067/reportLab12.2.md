@@ -416,6 +416,9 @@ mosquitto_pub -h 127.0.0.1 -p 1883 -t "iot/esp32/status" -m "offline" -r
 > **หมายเหตุ:** ขั้นตอนนี้เป็นการจำลองส่งข้อความ `offline` ด้วยคำสั่ง Mosquitto CLI ไม่ใช่การทดสอบการทำงานของ LWT จริงโดยการตัดการเชื่อมต่อ ESP32 แบบผิดปกติ
 
 ---
+<img width="655" height="403" alt="Screenshot 2569-11-01 at 02 22 37" src="https://github.com/user-attachments/assets/797f6a17-92d6-4a5f-beb4-4f0ae8dd57db" />
+<img width="658" height="413" alt="Screenshot 2569-11-01 at 02 22 50" src="https://github.com/user-attachments/assets/2d972bef-fa59-4bee-ad1f-912508ed7e5a" />
+
 
 ## 4. สรุปผลและคำถามท้ายการทดลอง
 
