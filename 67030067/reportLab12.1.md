@@ -401,6 +401,7 @@ mosquitto_pub -h 127.0.0.1 -p 1883 -t "test/broker/echo" -m "Echo response from 
 - กลับไปตรวจสอบข้อความที่ได้รับในส่วน Transaction Logs ของแอปพลิเคชัน
 
 ---
+<img width="657" height="313" alt="Screenshot 2569-11-01 at 01 53 59" src="https://github.com/user-attachments/assets/f41821a9-6a1e-4f3f-b75e-8f55b301a17c" />
 
 ## 4. คำถามท้ายการทดลอง (Review Questions)
 
