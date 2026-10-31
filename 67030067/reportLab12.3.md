@@ -663,6 +663,7 @@ python pyTeleSim.py
 ```
 
 เมื่อเปิดแอปพลิเคชัน Flutter ควบคู่กับสคริปต์ Python จะเห็นว่าเข็ม Radial Gauge เปลี่ยนแปลงตามค่าแรงดันไฟฟ้าที่ส่งเข้ามา การ์ดสถิติแสดงค่า ADC แรงดันสูงสุด และแรงดันต่ำสุด ส่วนกราฟจะแสดงแนวโน้มของข้อมูลย้อนหลังไม่เกิน 30 ตัวอย่าง
+<img width="665" height="338" alt="Screenshot 2569-11-01 at 02 28 42" src="https://github.com/user-attachments/assets/9fc839c7-a8c1-4eb6-80fc-a235ef107ac3" />
 
 #### 2. การทดสอบแบบเจาะจงค่าผ่าน Mosquitto CLI (PowerShell)
 
